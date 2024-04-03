@@ -1,0 +1,410 @@
+[
+    {
+        "Date": "2021-01-01",
+        "Region": "North",
+        "Sales": 10000,
+        "Expenses": 7500,
+        "Profit": 2500,
+        "Units Sold": 400
+    },
+    {
+        "Date": "2021-07-01",
+        "Region": "East",
+        "Sales": 6056,
+        "Expenses": -11117,
+        "Profit": 17173,
+        "Units Sold": 243
+    },
+    {
+        "Date": "2021-07-31",
+        "Region": "West",
+        "Sales": 21058,
+        "Expenses": 10667,
+        "Profit": 10391,
+        "Units Sold": 450
+    },
+    {
+        "Date": "2021-08-30",
+        "Region": "North",
+        "Sales": 14055,
+        "Expenses": 1081,
+        "Profit": 12974,
+        "Units Sold": 321
+    },
+    {
+        "Date": "2021-09-29",
+        "Region": "North",
+        "Sales": 11555,
+        "Expenses": -2370,
+        "Profit": 13925,
+        "Units Sold": 263
+    },
+    {
+        "Date": "2021-10-29",
+        "Region": "North",
+        "Sales": 35835,
+        "Expenses": 34196,
+        "Profit": 1639,
+        "Units Sold": 118
+    },
+    {
+        "Date": "2021-11-28",
+        "Region": "East",
+        "Sales": 33598,
+        "Expenses": 27851,
+        "Profit": 5747,
+        "Units Sold": 281
+    },
+    {
+        "Date": "2021-12-28",
+        "Region": "North",
+        "Sales": 14609,
+        "Expenses": -850,
+        "Profit": 15459,
+        "Units Sold": 136
+    },
+    {
+        "Date": "2022-01-27",
+        "Region": "South",
+        "Sales": 5721,
+        "Expenses": -4429,
+        "Profit": 10150,
+        "Units Sold": 552
+    },
+    {
+        "Date": "2022-02-26",
+        "Region": "North",
+        "Sales": 13767,
+        "Expenses": -4450,
+        "Profit": 18217,
+        "Units Sold": 248
+    },
+    {
+        "Date": "2022-03-28",
+        "Region": "South",
+        "Sales": 23851,
+        "Expenses": 19535,
+        "Profit": 4316,
+        "Units Sold": 209
+    },
+    {
+        "Date": "2022-04-27",
+        "Region": "West",
+        "Sales": 19953,
+        "Expenses": 8680,
+        "Profit": 11273,
+        "Units Sold": 495
+    },
+    {
+        "Date": "2022-05-27",
+        "Region": "West",
+        "Sales": 5669,
+        "Expenses": -13178,
+        "Profit": 18847,
+        "Units Sold": 717
+    },
+    {
+        "Date": "2022-06-26",
+        "Region": "West",
+        "Sales": 28070,
+        "Expenses": 16931,
+        "Profit": 11139,
+        "Units Sold": 102
+    },
+    {
+        "Date": "2022-07-26",
+        "Region": "West",
+        "Sales": 35895,
+        "Expenses": 31280,
+        "Profit": 4615,
+        "Units Sold": 892
+    },
+    {
+        "Date": "2022-08-25",
+        "Region": "South",
+        "Sales": 14151,
+        "Expenses": 10837,
+        "Profit": 3314,
+        "Units Sold": 653
+    },
+    {
+        "Date": "2022-09-24",
+        "Region": "South",
+        "Sales": 9795,
+        "Expenses": -632,
+        "Profit": 10427,
+        "Units Sold": 115
+    },
+    {
+        "Date": "2022-10-24",
+        "Region": "South",
+        "Sales": 5709,
+        "Expenses": -11819,
+        "Profit": 17528,
+        "Units Sold": 180
+    },
+    {
+        "Date": "2022-11-23",
+        "Region": "East",
+        "Sales": 21980,
+        "Expenses": 6674,
+        "Profit": 15306,
+        "Units Sold": 142
+    },
+    {
+        "Date": "2022-12-23",
+        "Region": "East",
+        "Sales": 20322,
+        "Expenses": 5748,
+        "Profit": 14574,
+        "Units Sold": 399
+    },
+    {
+        "Date": "2023-01-22",
+        "Region": "North",
+        "Sales": 30756,
+        "Expenses": 14008,
+        "Profit": 16748,
+        "Units Sold": 732
+    },
+    {
+        "Date": "2023-02-21",
+        "Region": "West",
+        "Sales": 17322,
+        "Expenses": 534,
+        "Profit": 16788,
+        "Units Sold": 642
+    },
+    {
+        "Date": "2023-03-23",
+        "Region": "North",
+        "Sales": 19566,
+        "Expenses": 7738,
+        "Profit": 11828,
+        "Units Sold": 595
+    },
+    {
+        "Date": "2023-04-22",
+        "Region": "North",
+        "Sales": 17770,
+        "Expenses": 11097,
+        "Profit": 6673,
+        "Units Sold": 569
+    },
+    {
+        "Date": "2023-05-22",
+        "Region": "East",
+        "Sales": 24120,
+        "Expenses": 10406,
+        "Profit": 13714,
+        "Units Sold": 292
+    },
+    {
+        "Date": "2023-06-21",
+        "Region": "West",
+        "Sales": 26297,
+        "Expenses": 20515,
+        "Profit": 5782,
+        "Units Sold": 805
+    },
+    {
+        "Date": "2023-07-21",
+        "Region": "North",
+        "Sales": 26614,
+        "Expenses": 16111,
+        "Profit": 10503,
+        "Units Sold": 592
+    },
+    {
+        "Date": "2023-08-20",
+        "Region": "West",
+        "Sales": 30907,
+        "Expenses": 18979,
+        "Profit": 11928,
+        "Units Sold": 355
+    },
+    {
+        "Date": "2023-09-19",
+        "Region": "South",
+        "Sales": 7375,
+        "Expenses": -8,
+        "Profit": 7383,
+        "Units Sold": 935
+    },
+    {
+        "Date": "2023-10-19",
+        "Region": "West",
+        "Sales": 8471,
+        "Expenses": -6461,
+        "Profit": 14932,
+        "Units Sold": 466
+    },
+    {
+        "Date": "2023-11-18",
+        "Region": "West",
+        "Sales": 5574,
+        "Expenses": -8101,
+        "Profit": 13675,
+        "Units Sold": 720
+    },
+    {
+        "Date": "2023-12-18",
+        "Region": "North",
+        "Sales": 34425,
+        "Expenses": 17622,
+        "Profit": 16803,
+        "Units Sold": 723
+    },
+    {
+        "Date": "2024-01-17",
+        "Region": "South",
+        "Sales": 9279,
+        "Expenses": -7135,
+        "Profit": 16414,
+        "Units Sold": 414
+    },
+    {
+        "Date": "2024-02-16",
+        "Region": "East",
+        "Sales": 30407,
+        "Expenses": 13846,
+        "Profit": 16561,
+        "Units Sold": 309
+    },
+    {
+        "Date": "2024-03-17",
+        "Region": "West",
+        "Sales": 37823,
+        "Expenses": 28231,
+        "Profit": 9592,
+        "Units Sold": 820
+    },
+    {
+        "Date": "2024-04-16",
+        "Region": "South",
+        "Sales": 11844,
+        "Expenses": 5854,
+        "Profit": 5990,
+        "Units Sold": 252
+    },
+    {
+        "Date": "2024-05-16",
+        "Region": "West",
+        "Sales": 13768,
+        "Expenses": -764,
+        "Profit": 14532,
+        "Units Sold": 424
+    },
+    {
+        "Date": "2024-06-15",
+        "Region": "East",
+        "Sales": 34206,
+        "Expenses": 28618,
+        "Profit": 5588,
+        "Units Sold": 848
+    },
+    {
+        "Date": "2024-07-15",
+        "Region": "South",
+        "Sales": 38235,
+        "Expenses": 33191,
+        "Profit": 5044,
+        "Units Sold": 249
+    },
+    {
+        "Date": "2024-08-14",
+        "Region": "West",
+        "Sales": 34304,
+        "Expenses": 17000,
+        "Profit": 17304,
+        "Units Sold": 157
+    },
+    {
+        "Date": "2024-09-13",
+        "Region": "South",
+        "Sales": 37182,
+        "Expenses": 18675,
+        "Profit": 18507,
+        "Units Sold": 736
+    },
+    {
+        "Date": "2024-10-13",
+        "Region": "North",
+        "Sales": 19156,
+        "Expenses": 7241,
+        "Profit": 11915,
+        "Units Sold": 612
+    },
+    {
+        "Date": "2024-11-12",
+        "Region": "West",
+        "Sales": 20201,
+        "Expenses": 2877,
+        "Profit": 17324,
+        "Units Sold": 565
+    },
+    {
+        "Date": "2024-12-12",
+        "Region": "North",
+        "Sales": 25972,
+        "Expenses": 11416,
+        "Profit": 14556,
+        "Units Sold": 218
+    },
+    {
+        "Date": "2025-01-11",
+        "Region": "West",
+        "Sales": 6282,
+        "Expenses": -7182,
+        "Profit": 13464,
+        "Units Sold": 109
+    },
+    {
+        "Date": "2025-02-10",
+        "Region": "East",
+        "Sales": 37732,
+        "Expenses": 30579,
+        "Profit": 7153,
+        "Units Sold": 705
+    },
+    {
+        "Date": "2025-03-12",
+        "Region": "North",
+        "Sales": 18634,
+        "Expenses": 8763,
+        "Profit": 9871,
+        "Units Sold": 635
+    },
+    {
+        "Date": "2025-04-11",
+        "Region": "South",
+        "Sales": 16438,
+        "Expenses": 13935,
+        "Profit": 2503,
+        "Units Sold": 308
+    },
+    {
+        "Date": "2025-05-11",
+        "Region": "North",
+        "Sales": 33792,
+        "Expenses": 25797,
+        "Profit": 7995,
+        "Units Sold": 539
+    },
+    {
+        "Date": "2025-06-10",
+        "Region": "West",
+        "Sales": 34859,
+        "Expenses": 30033,
+        "Profit": 4826,
+        "Units Sold": 388
+    },
+    {
+        "Date": "2025-07-10",
+        "Region": "East",
+        "Sales": 32405,
+        "Expenses": 20405,
+        "Profit": 12000,
+        "Units Sold": 610
+    }
+]
